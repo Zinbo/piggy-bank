@@ -1,0 +1,11 @@
+{
+    "cordova-plugin-websqldatabase": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Smile-SA/cordova-plugin-websqldatabase",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

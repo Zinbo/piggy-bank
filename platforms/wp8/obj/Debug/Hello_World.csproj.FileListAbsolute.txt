@@ -1,0 +1,13 @@
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\Background.png
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\com.phonegap.helloworld.dll
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\com.phonegap.helloworld.pdb
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Development\pigy-bank\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\App.g.cs
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\com.phonegap.helloworld.g.resources
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\com.phonegap.helloworld.dll
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\com.phonegap.helloworld.pdb
+D:\Development\pigy-bank\platforms\wp8\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"WebDatabase\"><param name=\"wp-package\" value=\"WebDatabase\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-websqldatabase": {
+            "PACKAGE_NAME": "{f3b11e20-6b8d-11e5-b11a-31265fa05b43}"
+        }
+    },
+    "dependent_plugins": {}
+}
